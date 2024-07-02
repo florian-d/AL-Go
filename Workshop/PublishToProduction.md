@@ -30,7 +30,7 @@ Then the PROD environment is not even included in the CI/CD workflow, and again,
 
 ## Publish to Environment
 
-Menually publishing to environments is done by running the **Publish To Environment** workflow and specifying which version to publish.
+Manually publishing to environments is done by running the **Publish To Environment** workflow and specifying which version to publish.
 
 | ![image](https://github.com/microsoft/AL-Go/assets/10775043/57f8441b-d414-4225-9cf4-dc2f7ce185a0) |
 |-|
